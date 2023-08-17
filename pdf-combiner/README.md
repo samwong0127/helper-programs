@@ -1,7 +1,7 @@
 # Helper program - pdf-combiner
 
 **pdf-combiner** is a helper program for you to combine pdfs without uploading your pdfs online. 
-There is also a friendly UI for you to select input folder, page range for each pdf, and output filename.
+There is also a friendly UI for you to select the input folder, page range for each pdf, and output filename.
 
 You can use the software by downloading the `dist\` folder which contains all dependencies and you can start the software by running `dist\pdfCombiner\pdfCombiner.exe`.
 
