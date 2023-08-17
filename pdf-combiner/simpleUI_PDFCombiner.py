@@ -65,16 +65,21 @@ def contains_other_symbols(input_string):
 def inputParsing(pdf, page):
 
     pdf_list = pdf.split(';')
-    page_list = page.split(';')
+    page_list = page.lower().split(';')
 
     input_pdf_dict = {}
     
     if len(pdf_list) != len(page_list):
         return [0, "The number of pdf doesn't match the number of page range. Please check again."]
-    elif contains_letter(page) == True:
-        return [0, "Page number section contains alphabet letter characters. Please check again."]
     elif contains_other_symbols(page) == False:
         return [0, "Page number section contains illegal characters. Please check again."]
+    elif contains_letter(page) == True:
+        for p in page_list:
+            if p != "all":
+                return [0, "Page number section contains alphabet letter characters. Please check again."]
+        for index, (pdf, page) in enumerate(zip(pdf_list, page_list)):
+            input_pdf_dict[pdf] = page
+
     else:
         for index, (pdf, page) in enumerate(zip(pdf_list, page_list)):
             input_pdf_dict[pdf] = page
@@ -114,9 +119,9 @@ while True:
                 if status == 1:
                     sg.popup_ok(f"pdf saved as {os.path.join(folder, values[2])}.", title='Success')
                 else:
-                    sg.popup_ok("Cannot combine pdf. Please check again.", title='Error')
+                    sg.popup_ok("Status 0. Cannot combine pdf. Please check again.", title='Error')
         
-            except:
+            except :
                 sg.popup_ok("Cannot combine pdf. Please check again.", title='Error')
         
     

@@ -41,7 +41,9 @@ def combine_pdfs(input_folder, input_pages, output_pdf):
             page_number = parse_page_range(page_range)
             #page_number = None
             try:
-                if page_number[-1] == -1:
+                if page_number == None:
+                    pdf_merger.append(pdf_file, pages=page_number)
+                elif page_number[-1] == -1:
                     for segment in page_number:
                         if segment == -1:
                             continue
@@ -79,14 +81,14 @@ def combine_pdfs(input_folder, input_pages, output_pdf):
 
 if __name__ == '__main__':
     # Input folder containing PDF files
-    input_folder = "D:\PDF"
+    input_folder = r"C:\Users\Sam Wong\Desktop\tmp-pdf"
 
     # Dictionary of page ranges for each input PDF file in the folder
     # Format: {'input1.pdf': '1-2', 'input2.pdf': '1-2,3', ...}
     input_pages = {
-        #'0.pdf': '1-2, 4-5',
-        '1.pdf': '1-2,4-5',
-        '2.pdf': '1,3'
+        '0.pdf': 'all',
+        '1.pdf': 'all',
+        '2.pdf': 'all'
     }
 
     # Output PDF file path
