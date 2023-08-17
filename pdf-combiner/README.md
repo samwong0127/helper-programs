@@ -7,7 +7,10 @@ You can use the software by downloading the `dist\` folder which contains all de
 
 ## UI
 
-**Note: You have to put all PDFs into one folder before merging.**
+**Note:**
+1. Put all PDFs in one folder before merging.
+2. Do not add trailing semi-colon.
+3. Put `.pdf` behind filenames.
 
 Pop-up screen asking for the folder of the pdfs.
 
