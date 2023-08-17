@@ -7,19 +7,19 @@ You can use the software by downloading the `dist\` folder which contains all de
 
 ## UI
 Pop-up screen asking for the folder of the pdfs
-![pdf-folder](/pictures/UI-1.jpg)
+![pdf-folder](pictures/UI-1.jpg)
 
 Showing all the pdfs in the selected folder
-![display-pdf](/pictures/UI-2.jpg)
+![display-pdf](pictures/UI-2.jpg)
 
 Inputing pdf,  page range and output filename
-![display-input](/pictures/UI-3.jpg)
+![display-input](pictures/UI-3.jpg)
 
 Successful message pop-up
-![display-successful](/pictures/UI-4.jpg)
+![display-successful](pictures/UI-4.jpg)
 
 Sample error in page number
-![display-error1](/pictures/UI-5.jpg)
+![display-error1](pictures/UI-5.jpg)
 
 
 # References
