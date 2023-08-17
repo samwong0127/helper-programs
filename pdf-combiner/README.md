@@ -6,7 +6,12 @@ There is also a friendly UI for you to select the input folder, page range for e
 You can use the software by downloading the `dist\` folder which contains all dependencies and you can start the software by running `dist\pdfCombiner\pdfCombiner.exe`.
 
 ## UI
-Pop-up screen asking for the folder of the pdfs
+
+**Note: You have to put all PDFs into one folder before merging.**
+
+Pop-up screen asking for the folder of the pdfs.
+
+
 ![pdf-folder](pictures/UI-1.jpg)
 
 Showing all the pdfs in the selected folder
