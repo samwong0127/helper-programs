@@ -72,14 +72,13 @@ def inputParsing(pdf, page):
     if len(pdf_list) != len(page_list):
         return [0, "The number of pdf doesn't match the number of page range. Please check again."]
     elif contains_other_symbols(page) == False:
-        return [0, "Page number section contains illegal characters. Please check again."]
+        return [0, f"Page number section contains illegal characters: {p}. Please check again."]
     elif contains_letter(page) == True:
         for p in page_list:
             if p != "all":
-                return [0, "Page number section contains alphabet letter characters. Please check again."]
+                return [0, f"Page number section contains alphabet letter characters: {p}. Please check again."]
         for index, (pdf, page) in enumerate(zip(pdf_list, page_list)):
             input_pdf_dict[pdf] = page
-
     else:
         for index, (pdf, page) in enumerate(zip(pdf_list, page_list)):
             input_pdf_dict[pdf] = page
