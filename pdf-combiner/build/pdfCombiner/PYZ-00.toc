@@ -1,0 +1,3052 @@
+('D:\\GitHub\\helper-programs\\pdf-combiner\\build\\pdfCombiner\\PYZ-00.pyz',
+ [('PIL',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ExifTags',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ExifTags.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsStubImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.ImageCms',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageCms.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.ImageGrab',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageGrab.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.ImageWin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageWin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.QoiImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\QoiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('PyPDF2',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\__init__.py',
+   'PYMODULE'),
+  ('PyPDF2._cmap',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\_cmap.py',
+   'PYMODULE'),
+  ('PyPDF2._codecs',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\_codecs\\__init__.py',
+   'PYMODULE'),
+  ('PyPDF2._codecs.adobe_glyphs',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\_codecs\\adobe_glyphs.py',
+   'PYMODULE'),
+  ('PyPDF2._codecs.pdfdoc',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\_codecs\\pdfdoc.py',
+   'PYMODULE'),
+  ('PyPDF2._codecs.std',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\_codecs\\std.py',
+   'PYMODULE'),
+  ('PyPDF2._codecs.symbol',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\_codecs\\symbol.py',
+   'PYMODULE'),
+  ('PyPDF2._codecs.zapfding',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\_codecs\\zapfding.py',
+   'PYMODULE'),
+  ('PyPDF2._encryption',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\_encryption.py',
+   'PYMODULE'),
+  ('PyPDF2._merger',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\_merger.py',
+   'PYMODULE'),
+  ('PyPDF2._page',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\_page.py',
+   'PYMODULE'),
+  ('PyPDF2._protocols',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\_protocols.py',
+   'PYMODULE'),
+  ('PyPDF2._reader',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\_reader.py',
+   'PYMODULE'),
+  ('PyPDF2._security',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\_security.py',
+   'PYMODULE'),
+  ('PyPDF2._utils',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\_utils.py',
+   'PYMODULE'),
+  ('PyPDF2._version',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\_version.py',
+   'PYMODULE'),
+  ('PyPDF2._writer',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\_writer.py',
+   'PYMODULE'),
+  ('PyPDF2.constants',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\constants.py',
+   'PYMODULE'),
+  ('PyPDF2.errors',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\errors.py',
+   'PYMODULE'),
+  ('PyPDF2.filters',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\filters.py',
+   'PYMODULE'),
+  ('PyPDF2.generic',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\generic\\__init__.py',
+   'PYMODULE'),
+  ('PyPDF2.generic._annotations',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\generic\\_annotations.py',
+   'PYMODULE'),
+  ('PyPDF2.generic._base',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\generic\\_base.py',
+   'PYMODULE'),
+  ('PyPDF2.generic._data_structures',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\generic\\_data_structures.py',
+   'PYMODULE'),
+  ('PyPDF2.generic._fit',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\generic\\_fit.py',
+   'PYMODULE'),
+  ('PyPDF2.generic._outline',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\generic\\_outline.py',
+   'PYMODULE'),
+  ('PyPDF2.generic._rectangle',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\generic\\_rectangle.py',
+   'PYMODULE'),
+  ('PyPDF2.generic._utils',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\generic\\_utils.py',
+   'PYMODULE'),
+  ('PyPDF2.pagerange',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\pagerange.py',
+   'PYMODULE'),
+  ('PyPDF2.papersizes',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\papersizes.py',
+   'PYMODULE'),
+  ('PyPDF2.types',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\types.py',
+   'PYMODULE'),
+  ('PyPDF2.xmp',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyPDF2\\xmp.py',
+   'PYMODULE'),
+  ('PySimpleGUI',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PySimpleGUI\\__init__.py',
+   'PYMODULE'),
+  ('PySimpleGUI.PySimpleGUI',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PySimpleGUI\\PySimpleGUI.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\_compression.py',
+   'PYMODULE'),
+  ('_distutils_hack',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\_distutils_hack\\__init__.py',
+   'PYMODULE'),
+  ('_distutils_hack.override',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\_distutils_hack\\override.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_sitebuiltins',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\_sitebuiltins.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\base64.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\bdb.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\calendar.py',
+   'PYMODULE'),
+  ('cgi',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\cgi.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\cmd.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\codeop.py',
+   'PYMODULE'),
+  ('colorsys',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('concurrent',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('configparser',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('curses',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\curses\\__init__.py',
+   'PYMODULE'),
+  ('curses.has_key',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\curses\\has_key.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\dis.py',
+   'PYMODULE'),
+  ('distutils',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils._msvccompiler',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\archive_util.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.cmd',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\cmd.py',
+   'PYMODULE'),
+  ('distutils.command',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('distutils.command.bdist',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('distutils.command.bdist_rpm',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('distutils.command.build',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\command\\build.py',
+   'PYMODULE'),
+  ('distutils.command.build_clib',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\command\\build_clib.py',
+   'PYMODULE'),
+  ('distutils.command.build_ext',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('distutils.command.build_py',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\command\\build_py.py',
+   'PYMODULE'),
+  ('distutils.command.build_scripts',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('distutils.command.config',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\command\\config.py',
+   'PYMODULE'),
+  ('distutils.command.install',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\command\\install.py',
+   'PYMODULE'),
+  ('distutils.command.install_data',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\command\\install_data.py',
+   'PYMODULE'),
+  ('distutils.command.install_headers',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\command\\install_headers.py',
+   'PYMODULE'),
+  ('distutils.command.sdist',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('distutils.config',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\config.py',
+   'PYMODULE'),
+  ('distutils.core',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\core.py',
+   'PYMODULE'),
+  ('distutils.cygwinccompiler',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\cygwinccompiler.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.dist',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\dist.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils.extension',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\extension.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils.msvc9compiler',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\msvc9compiler.py',
+   'PYMODULE'),
+  ('distutils.msvccompiler',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\msvccompiler.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('distutils.unixccompiler',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\unixccompiler.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('distutils.versionpredicate',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\doctest.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fractions',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('imp',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\imp.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\resources.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib_metadata',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\importlib_metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib_metadata._adapters',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\importlib_metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib_metadata._collections',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\importlib_metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib_metadata._compat',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\importlib_metadata\\_compat.py',
+   'PYMODULE'),
+  ('importlib_metadata._functools',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\importlib_metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib_metadata._itertools',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\importlib_metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib_metadata._meta',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\importlib_metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib_metadata._py39compat',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\importlib_metadata\\_py39compat.py',
+   'PYMODULE'),
+  ('importlib_metadata._text',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\importlib_metadata\\_text.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\inspect.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\numbers.py',
+   'PYMODULE'),
+  ('numpy',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy._version',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_version.py',
+   'PYMODULE'),
+  ('numpy.array_api',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\__init__.py',
+   'PYMODULE'),
+  ('numpy.array_api._array_object',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_array_object.py',
+   'PYMODULE'),
+  ('numpy.array_api._constants',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_constants.py',
+   'PYMODULE'),
+  ('numpy.array_api._creation_functions',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_creation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._data_type_functions',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_data_type_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._dtypes',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_dtypes.py',
+   'PYMODULE'),
+  ('numpy.array_api._elementwise_functions',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_elementwise_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._manipulation_functions',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_manipulation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._searching_functions',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_searching_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._set_functions',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_set_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._sorting_functions',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_sorting_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._statistical_functions',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_statistical_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._typing',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_typing.py',
+   'PYMODULE'),
+  ('numpy.array_api._utility_functions',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_utility_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api.linalg',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\linalg.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.compat._inspect',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\compat\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs_scalars',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.core._machar',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_machar.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.distutils',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.__config__',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\__config__.py',
+   'PYMODULE'),
+  ('numpy.distutils._shell_utils',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\_shell_utils.py',
+   'PYMODULE'),
+  ('numpy.distutils.ccompiler',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('numpy.distutils.ccompiler_opt',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\ccompiler_opt.py',
+   'PYMODULE'),
+  ('numpy.distutils.command',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.autodist',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\command\\autodist.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.bdist_rpm',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\command\\build.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_clib',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\command\\build_clib.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_ext',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_py',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\command\\build_py.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_scripts',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_src',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\command\\build_src.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.config',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\command\\config.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.config_compiler',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\command\\config_compiler.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.develop',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\command\\develop.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.egg_info',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\command\\egg_info.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\command\\install.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install_clib',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\command\\install_clib.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install_data',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\command\\install_data.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install_headers',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\command\\install_headers.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.sdist',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('numpy.distutils.conv_template',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\conv_template.py',
+   'PYMODULE'),
+  ('numpy.distutils.core',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\core.py',
+   'PYMODULE'),
+  ('numpy.distutils.cpuinfo',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\cpuinfo.py',
+   'PYMODULE'),
+  ('numpy.distutils.exec_command',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\exec_command.py',
+   'PYMODULE'),
+  ('numpy.distutils.extension',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\extension.py',
+   'PYMODULE'),
+  ('numpy.distutils.fcompiler',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\fcompiler\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.fcompiler.environment',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\fcompiler\\environment.py',
+   'PYMODULE'),
+  ('numpy.distutils.from_template',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\from_template.py',
+   'PYMODULE'),
+  ('numpy.distutils.lib2def',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\lib2def.py',
+   'PYMODULE'),
+  ('numpy.distutils.log',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\log.py',
+   'PYMODULE'),
+  ('numpy.distutils.mingw32ccompiler',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\mingw32ccompiler.py',
+   'PYMODULE'),
+  ('numpy.distutils.misc_util',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\misc_util.py',
+   'PYMODULE'),
+  ('numpy.distutils.npy_pkg_config',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\npy_pkg_config.py',
+   'PYMODULE'),
+  ('numpy.distutils.numpy_distribution',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\numpy_distribution.py',
+   'PYMODULE'),
+  ('numpy.distutils.system_info',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\system_info.py',
+   'PYMODULE'),
+  ('numpy.distutils.unixccompiler',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\unixccompiler.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.decorators',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\testing\\_private\\decorators.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing._private.noseclasses',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\testing\\_private\\noseclasses.py',
+   'PYMODULE'),
+  ('numpy.testing._private.nosetester',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\testing\\_private\\nosetester.py',
+   'PYMODULE'),
+  ('numpy.testing._private.parameterized',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\testing\\_private\\parameterized.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.typing._add_docstring',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy.typing._array_like',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy.typing._char_codes',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\typing\\_char_codes.py',
+   'PYMODULE'),
+  ('numpy.typing._dtype_like',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy.typing._generic_alias',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\typing\\_generic_alias.py',
+   'PYMODULE'),
+  ('numpy.typing._nbit',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy.typing._nested_sequence',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy.typing._scalars',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy.typing._shape',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\opcode.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\optparse.py',
+   'PYMODULE'),
+  ('packaging',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pdfCombiner',
+   'D:\\GitHub\\helper-programs\\pdf-combiner\\pdfCombiner.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pipes',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\pipes.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._adapters',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_adapters.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._common',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_common.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._compat',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._itertools',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_itertools.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._legacy',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_legacy.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.abc',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\abc.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.readers',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\readers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.simple',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\simple.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.context',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\context.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.functools',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\functools.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.text',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools.more',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools.recipes',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._elffile',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._manylinux',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._musllinux',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._parser',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._tokenizer',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.metadata',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.__main__',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\__main__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.android',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\android.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.api',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\api.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.macos',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\macos.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.unix',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\unix.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.version',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.windows',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\windows.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.typing_extensions',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\typing_extensions.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.zipp',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\zipp.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\platform.py',
+   'PYMODULE'),
+  ('platformdirs',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\platformdirs\\__init__.py',
+   'PYMODULE'),
+  ('platformdirs.android',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\platformdirs\\android.py',
+   'PYMODULE'),
+  ('platformdirs.api',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\platformdirs\\api.py',
+   'PYMODULE'),
+  ('platformdirs.macos',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\platformdirs\\macos.py',
+   'PYMODULE'),
+  ('platformdirs.unix',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\platformdirs\\unix.py',
+   'PYMODULE'),
+  ('platformdirs.version',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\platformdirs\\version.py',
+   'PYMODULE'),
+  ('platformdirs.windows',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\platformdirs\\windows.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\random.py',
+   'PYMODULE'),
+  ('rlcompleter',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\selectors.py',
+   'PYMODULE'),
+  ('setuptools',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils._collections',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\_collections.py',
+   'PYMODULE'),
+  ('setuptools._distutils._functools',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\_functools.py',
+   'PYMODULE'),
+  ('setuptools._distutils._log',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\_log.py',
+   'PYMODULE'),
+  ('setuptools._distutils._macos_compat',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\_macos_compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils._msvccompiler',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.archive_util',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.bcppcompiler',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\bcppcompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.ccompiler',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.cmd',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\cmd.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command._framework_compat',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\command\\_framework_compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist_dumb',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\command\\bdist_dumb.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist_rpm',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_clib',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\command\\build_clib.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_ext',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_py',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\command\\build_py.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_scripts',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.check',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\command\\check.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.clean',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\command\\clean.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.config',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\command\\config.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\command\\install.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_data',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\command\\install_data.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_egg_info',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\command\\install_egg_info.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_headers',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\command\\install_headers.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_lib',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\command\\install_lib.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_scripts',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.py37compat',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\command\\py37compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.register',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\command\\register.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.sdist',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.upload',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\command\\upload.py',
+   'PYMODULE'),
+  ('setuptools._distutils.config',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\config.py',
+   'PYMODULE'),
+  ('setuptools._distutils.core',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\core.py',
+   'PYMODULE'),
+  ('setuptools._distutils.cygwinccompiler',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\cygwinccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.debug',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\debug.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dep_util',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\dep_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dir_util',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\dir_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dist',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\dist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.errors',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.extension',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\extension.py',
+   'PYMODULE'),
+  ('setuptools._distutils.fancy_getopt',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('setuptools._distutils.file_util',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\file_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.filelist',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\filelist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.log',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\log.py',
+   'PYMODULE'),
+  ('setuptools._distutils.msvc9compiler',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\msvc9compiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.msvccompiler',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\msvccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.py38compat',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\py38compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils.py39compat',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\py39compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils.spawn',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\spawn.py',
+   'PYMODULE'),
+  ('setuptools._distutils.sysconfig',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('setuptools._distutils.text_file',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\text_file.py',
+   'PYMODULE'),
+  ('setuptools._distutils.unixccompiler',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\unixccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.util',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.version',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\version.py',
+   'PYMODULE'),
+  ('setuptools._distutils.versionpredicate',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('setuptools._entry_points',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_entry_points.py',
+   'PYMODULE'),
+  ('setuptools._imp',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_imp.py',
+   'PYMODULE'),
+  ('setuptools._importlib',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_importlib.py',
+   'PYMODULE'),
+  ('setuptools._itertools',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._normalization',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_normalization.py',
+   'PYMODULE'),
+  ('setuptools._path',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_path.py',
+   'PYMODULE'),
+  ('setuptools._reqs',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_reqs.py',
+   'PYMODULE'),
+  ('setuptools._vendor',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._adapters',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_adapters.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._collections',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_collections.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._compat',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._functools',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_functools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._itertools',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._meta',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_meta.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._py39compat',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_py39compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._text',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_text.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources._adapters',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_adapters.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources._common',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_common.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources._compat',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources._itertools',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources._legacy',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_legacy.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources.abc',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\abc.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources.readers',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\readers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources.simple',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\simple.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\jaraco\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.context',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\jaraco\\context.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.functools',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\jaraco\\functools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.text',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.more',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.recipes',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('setuptools._vendor.ordered_set',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\ordered_set.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._elffile',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._manylinux',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._musllinux',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._parser',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._tokenizer',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.metadata',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.tags',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\tomli\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._parser',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\tomli\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._re',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\tomli\\_re.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._types',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\tomli\\_types.py',
+   'PYMODULE'),
+  ('setuptools._vendor.typing_extensions',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\typing_extensions.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\zipp.py',
+   'PYMODULE'),
+  ('setuptools.archive_util',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.command.build',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\config\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._apply_pyprojecttoml',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\config\\_apply_pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\config\\_validate_pyproject\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.error_reporting',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\config\\_validate_pyproject\\error_reporting.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.extra_validations',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\config\\_validate_pyproject\\extra_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_exceptions',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_exceptions.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_validations',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.formats',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\config\\_validate_pyproject\\formats.py',
+   'PYMODULE'),
+  ('setuptools.config.expand',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\config\\expand.py',
+   'PYMODULE'),
+  ('setuptools.config.pyprojecttoml',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\config\\pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config.setupcfg',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\config\\setupcfg.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools.discovery',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\discovery.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.errors',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\errors.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.extern',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\extern\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.installer',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\installer.py',
+   'PYMODULE'),
+  ('setuptools.logging',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\logging.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools.warnings',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\warnings.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\signal.py',
+   'PYMODULE'),
+  ('site',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\ssl.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\threading.py',
+   'PYMODULE'),
+  ('tkinter',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.colorchooser',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\tkinter\\colorchooser.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.dialog',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\tkinter\\dialog.py',
+   'PYMODULE'),
+  ('tkinter.filedialog',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\tkinter\\filedialog.py',
+   'PYMODULE'),
+  ('tkinter.font',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\tkinter\\font.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\typing.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.mock',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\mock.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\uu.py',
+   'PYMODULE'),
+  ('uuid',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\uuid.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('zipimport',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('zipp',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\zipp\\__init__.py',
+   'PYMODULE'),
+  ('zipp.py310compat',
+   'c:\\users\\sam '
+   'wong\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\zipp\\py310compat.py',
+   'PYMODULE')])
